@@ -4,7 +4,7 @@
 
 > **Hello, I am an engineer working across Mechatronics, Computer Science, and Web3 — hardware, software, and blockchain together.**
 
-I have a BSc in Mechatronics and Computer Science. I am the Co-Founder of NoctFinance, and I work as a Web3 and Backend Developer, based in Jos, Nigeria.
+BSc in Mechatronics and Computer Science · Co-Founder @ NoctFinance · Web3 & Backend Developer, based in Jos, Nigeria.
 
 ### `$ ls fields/`
 
