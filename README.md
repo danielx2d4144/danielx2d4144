@@ -22,7 +22,7 @@ Mechatronics Engineer · Computer Science Student @ UoPeople · Co-Founder @ Noc
   "co_founder": "NoctFinance",
   "public_repos": 28,
   "money_run": "300 steps · 0 errors",
-  "web3": ["base", "solana", "horizen", "concordium"],
+  "web3": ["base", "midnight", "horizen", "concordium"],
   "privacy": ["vela", "zk-proofs", "confidential-computing"],
   "speaks": ["en"]
 }
@@ -46,12 +46,15 @@ Mechatronics Engineer · Computer Science Student @ UoPeople · Co-Founder @ Noc
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-141619?style=for-the-badge&logo=javascript&logoColor=c6ff3d" />
 <img alt="Python" src="https://img.shields.io/badge/Python-141619?style=for-the-badge&logo=python&logoColor=c6ff3d" />
 <img alt="Solidity" src="https://img.shields.io/badge/Solidity-141619?style=for-the-badge&logo=solidity&logoColor=c6ff3d" />
+<img alt="Go" src="https://img.shields.io/badge/Go-141619?style=for-the-badge&logo=go&logoColor=c6ff3d" />
+<img alt="Rust" src="https://img.shields.io/badge/Rust-141619?style=for-the-badge&logo=rust&logoColor=c6ff3d" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-141619?style=for-the-badge&logo=nodedotjs&logoColor=c6ff3d" />
 <img alt="React" src="https://img.shields.io/badge/React-141619?style=for-the-badge&logo=react&logoColor=c6ff3d" />
 <img alt="Express" src="https://img.shields.io/badge/Express-141619?style=for-the-badge&logo=express&logoColor=c6ff3d" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-141619?style=for-the-badge&logo=tailwindcss&logoColor=c6ff3d" />
 <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-141619?style=for-the-badge&logo=ethereum&logoColor=c6ff3d" />
-<img alt="Solana" src="https://img.shields.io/badge/Solana-141619?style=for-the-badge&logo=solana&logoColor=c6ff3d" />
+<img alt="Base" src="https://img.shields.io/badge/Base-141619?style=for-the-badge" />
+<img alt="Midnight" src="https://img.shields.io/badge/Midnight-141619?style=for-the-badge" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-141619?style=for-the-badge&logo=docker&logoColor=c6ff3d" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-141619?style=for-the-badge&logo=postgresql&logoColor=c6ff3d" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-141619?style=for-the-badge&logo=mongodb&logoColor=c6ff3d" />
