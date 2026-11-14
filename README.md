@@ -48,6 +48,7 @@ BSc in Mechatronics and Computer Science · Co-Founder @ NoctFinance · Web3 & B
 <img alt="Solidity" src="https://img.shields.io/badge/Solidity-141619?style=for-the-badge&logo=solidity&logoColor=c6ff3d" />
 <img alt="Go" src="https://img.shields.io/badge/Go-141619?style=for-the-badge&logo=go&logoColor=c6ff3d" />
 <img alt="Rust" src="https://img.shields.io/badge/Rust-141619?style=for-the-badge&logo=rust&logoColor=c6ff3d" />
+<img alt="Noir" src="https://img.shields.io/badge/Noir-141619?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2M2ZmYzZCIgZD0iTTQgNGgzbDYgOVY0aDN2MTZoLTNsLTYtOXY5SDR6Ii8+PC9zdmc+&logoColor=c6ff3d" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-141619?style=for-the-badge&logo=html5&logoColor=c6ff3d" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-141619?style=for-the-badge&logo=css3&logoColor=c6ff3d" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-141619?style=for-the-badge&logo=nodedotjs&logoColor=c6ff3d" />
