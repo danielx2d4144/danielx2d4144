@@ -4,14 +4,14 @@
 
 > **Hello, I am an engineer working across Mechatronics, Computer Science, and Web3 — hardware, software, and blockchain together.**
 
-Mechatronics Engineer · Computer Science Student @ UoPeople · Co-Founder @ NoctFinance · Web3 & Backend Developer, based in Jos, Nigeria.
+I have a BSc in Mechatronics and Computer Science. I am the Co-Founder of NoctFinance, and I work as a Web3 and Backend Developer, based in Jos, Nigeria.
 
 ### `$ ls fields/`
 
 | field | what it means here |
 | --- | --- |
 | `mechatronics-engineering` | Hardware + systems engineering — my engineering background, and a path I am staying positioned for. |
-| `computer-science` | Computer Science @ UoPeople — systems, backend & full-stack software. |
+| `computer-science` | Computer Science — systems, backend and full-stack software. |
 | `web3-blockchain` | Web3 / Blockchain Engineering — private, onchain finance, currently NoctFinance. |
 
 ### `$ cat stats.json`
@@ -48,16 +48,23 @@ Mechatronics Engineer · Computer Science Student @ UoPeople · Co-Founder @ Noc
 <img alt="Solidity" src="https://img.shields.io/badge/Solidity-141619?style=for-the-badge&logo=solidity&logoColor=c6ff3d" />
 <img alt="Go" src="https://img.shields.io/badge/Go-141619?style=for-the-badge&logo=go&logoColor=c6ff3d" />
 <img alt="Rust" src="https://img.shields.io/badge/Rust-141619?style=for-the-badge&logo=rust&logoColor=c6ff3d" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-141619?style=for-the-badge&logo=html5&logoColor=c6ff3d" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-141619?style=for-the-badge&logo=css3&logoColor=c6ff3d" />
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-141619?style=for-the-badge&logo=nodedotjs&logoColor=c6ff3d" />
 <img alt="React" src="https://img.shields.io/badge/React-141619?style=for-the-badge&logo=react&logoColor=c6ff3d" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-141619?style=for-the-badge&logo=nextdotjs&logoColor=c6ff3d" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-141619?style=for-the-badge&logo=vite&logoColor=c6ff3d" />
+<img alt="Expo" src="https://img.shields.io/badge/Expo-141619?style=for-the-badge&logo=expo&logoColor=c6ff3d" />
 <img alt="Express" src="https://img.shields.io/badge/Express-141619?style=for-the-badge&logo=express&logoColor=c6ff3d" />
+<img alt="Fastify" src="https://img.shields.io/badge/Fastify-141619?style=for-the-badge&logo=fastify&logoColor=c6ff3d" />
 <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-141619?style=for-the-badge&logo=tailwindcss&logoColor=c6ff3d" />
 <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-141619?style=for-the-badge&logo=ethereum&logoColor=c6ff3d" />
-<img alt="Base" src="https://img.shields.io/badge/Base-141619?style=for-the-badge" />
-<img alt="Midnight" src="https://img.shields.io/badge/Midnight-141619?style=for-the-badge" />
 <img alt="Docker" src="https://img.shields.io/badge/Docker-141619?style=for-the-badge&logo=docker&logoColor=c6ff3d" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-141619?style=for-the-badge&logo=postgresql&logoColor=c6ff3d" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-141619?style=for-the-badge&logo=mongodb&logoColor=c6ff3d" />
+<img alt="Redis" src="https://img.shields.io/badge/Redis-141619?style=for-the-badge&logo=redis&logoColor=c6ff3d" />
+<img alt="Supabase" src="https://img.shields.io/badge/Supabase-141619?style=for-the-badge&logo=supabase&logoColor=c6ff3d" />
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-141619?style=for-the-badge&logo=firebase&logoColor=c6ff3d" />
 </p>
 
 ### `$ ./contact.sh`
